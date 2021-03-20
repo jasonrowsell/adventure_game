@@ -1,4 +1,4 @@
-# adventure_game
+# Adventure Game #
 
 Makers Academy exercise for precourse, Mastery curriculum, ch. 6 on Advanced Flow of Control.
 
